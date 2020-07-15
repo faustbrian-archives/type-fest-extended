@@ -1,8 +1,8 @@
 {
-	"name": "@kodekeep/:package_name",
+	"name": "@kodekeep/type-fest-extended",
 	"version": "1.0.0",
 	"description": ":package_description",
-	"repository": "https://github.com/kodekeep/:package_name",
+	"repository": "https://github.com/kodekeep/type-fest-extended",
 	"license": "MPL-2.0",
 	"author": "KodeKeep <hello@kodekeep.com>",
 	"files": [
@@ -40,5 +40,8 @@
 		"rimraf": "^3.0.2",
 		"ts-jest": "^26.0.0",
 		"typescript": "^3.9.2"
+	},
+	"dependencies": {
+		"type-fest": "^0.16.0"
 	}
 }

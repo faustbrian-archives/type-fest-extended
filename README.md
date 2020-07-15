@@ -1,18 +1,18 @@
-# @kodekeep/:package_name
+# @kodekeep/type-fest-extended
 
-[![Latest Version](https://badgen.net/npm/v/@kodekeep/:package_name)](https://npmjs.com/package/@kodekeep/:package_name)
-[![Software License](https://badgen.net/npm/license/@kodekeep/:package_name)](https://npmjs.com/package/@kodekeep/:package_name)
-[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/:package_name/run-tests?label=tests)](https://github.com/kodekeep/:package_name/actions?query=workflow%3Arun-tests+branch%3Amaster)
-[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/:package_name)](https://codeclimate.com/github/kodekeep/:package_name)
-[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/:package_name)](https://codeclimate.com/github/kodekeep/:package_name)
-[![Total Downloads](https://badgen.net/npm/dt/@kodekeep/:package_name)](https://npmjs.com/package/@kodekeep/:package_name)
+[![Latest Version](https://badgen.net/npm/v/@kodekeep/type-fest-extended)](https://npmjs.com/package/@kodekeep/type-fest-extended)
+[![Software License](https://badgen.net/npm/license/@kodekeep/type-fest-extended)](https://npmjs.com/package/@kodekeep/type-fest-extended)
+[![Build Status](https://img.shields.io/github/workflow/status/kodekeep/type-fest-extended/run-tests?label=tests)](https://github.com/kodekeep/type-fest-extended/actions?query=workflow%3Arun-tests+branch%3Amaster)
+[![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/type-fest-extended)](https://codeclimate.com/github/kodekeep/type-fest-extended)
+[![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/type-fest-extended)](https://codeclimate.com/github/kodekeep/type-fest-extended)
+[![Total Downloads](https://badgen.net/npm/dt/@kodekeep/type-fest-extended)](https://npmjs.com/package/@kodekeep/type-fest-extended)
 
 This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides ...
 
 ## Installation
 
 ```bash
-yarn add @kodekeep/:package_name
+yarn add @kodekeep/type-fest-extended
 ```
 
 ## Testing
@@ -43,4 +43,4 @@ We invest a lot of resources into creating and maintaining our packages. You can
 
 ## License
 
-:package_name is an open-sourced software licensed under the [MPL-2.0](LICENSE.md).
+type-fest-extended is an open-sourced software licensed under the [MPL-2.0](LICENSE.md).
