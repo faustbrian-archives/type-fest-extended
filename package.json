@@ -19,7 +19,7 @@
 		"dist"
 	],
 	"dependencies": {
-		"type-fest": "^1.1.2"
+		"type-fest": "^1.1.3"
 	},
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1"
